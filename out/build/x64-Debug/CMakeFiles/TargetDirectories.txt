@@ -1,0 +1,13 @@
+D:/Document/Qt/EFrame/out/build/x64-Debug/CMakeFiles/EFrame.dir
+D:/Document/Qt/EFrame/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/Document/Qt/EFrame/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+D:/Document/Qt/EFrame/out/build/x64-Debug/CMakeFiles/list_install_components.dir
+D:/Document/Qt/EFrame/out/build/x64-Debug/CMakeFiles/install.dir
+D:/Document/Qt/EFrame/out/build/x64-Debug/CMakeFiles/install/local.dir
+D:/Document/Qt/EFrame/out/build/x64-Debug/CMakeFiles/EFrame_autogen_timestamp_deps.dir
+D:/Document/Qt/EFrame/out/build/x64-Debug/CMakeFiles/EFrame_autogen.dir
+D:/Document/Qt/EFrame/out/build/x64-Debug/network/CMakeFiles/edit_cache.dir
+D:/Document/Qt/EFrame/out/build/x64-Debug/network/CMakeFiles/rebuild_cache.dir
+D:/Document/Qt/EFrame/out/build/x64-Debug/network/CMakeFiles/list_install_components.dir
+D:/Document/Qt/EFrame/out/build/x64-Debug/network/CMakeFiles/install.dir
+D:/Document/Qt/EFrame/out/build/x64-Debug/network/CMakeFiles/install/local.dir

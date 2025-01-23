@@ -1,0 +1,3 @@
+@echo  call windeploy
+call F:\Qt\Qt6.7\6.8.0\msvc2022_64\bin\windeployqt6.exe .\out\build\x64-Debug\EFrame.exe
+@echo call windeploy end....

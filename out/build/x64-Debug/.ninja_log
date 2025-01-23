@@ -1,0 +1,10 @@
+# ninja log v6
+69	1202	7592689877580583	EFrame_autogen/timestamp	789e9000f03e59d
+69	1202	7592689877580583	EFrame_autogen/mocs_compilation.cpp	789e9000f03e59d
+69	1202	7592689877580583	D:/Document/Qt/EFrame/out/build/x64-Debug/EFrame_autogen/mocs_compilation.cpp	789e9000f03e59d
+69	1202	7592689877580583	D:/Document/Qt/EFrame/out/build/x64-Debug/EFrame_autogen/timestamp	789e9000f03e59d
+1217	6255	7592689879474259	CMakeFiles/EFrame.dir/EFrame_autogen/mocs_compilation.cpp.obj	352b1e81596b3c68
+1296	1431	7592689880259791	CMakeFiles/EFrame.dir/network/udpsocketbase.cpp.obj	7cb22ba1ab2fd554
+1268	6372	7592689879998056	CMakeFiles/EFrame.dir/main.cpp.obj	747a6ab0a6bc0219
+1282	6388	7592689880103499	CMakeFiles/EFrame.dir/mainwindow.cpp.obj	1b0a64efe6c8c6ca
+6389	7814	7592689931114200	EFrame.exe	8a09aa66d31f8936

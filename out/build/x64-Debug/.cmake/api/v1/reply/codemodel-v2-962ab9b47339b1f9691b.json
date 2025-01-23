@@ -1,0 +1,95 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-a5f885a0b0b8a9caf4f6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"build" : "network",
+					"jsonFile" : "directory-network-Debug-b870af0d895d89e95012.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "network"
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "EFrame",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "EFrame::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-EFrame-Debug-4efc13fd2aac19c961f9.json",
+					"name" : "EFrame",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "EFrame_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-EFrame_autogen-Debug-8a01c35f63ec4d7cf163.json",
+					"name" : "EFrame_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "EFrame_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-EFrame_autogen_timestamp_deps-Debug-47961b9eb147fef87c98.json",
+					"name" : "EFrame_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Document/Qt/EFrame/out/build/x64-Debug",
+		"source" : "D:/Document/Qt/EFrame"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
